@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ArvindMohanta
-- 👀 I’m interested in software and web devlopement 
+- 👀 I’m interested in software, web devlopement, Embedded system.
+
 
 
